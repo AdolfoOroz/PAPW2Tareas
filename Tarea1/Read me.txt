@@ -1,0 +1,4 @@
+Tarea 1 de PAPW2
+
+Las diferencias principales de Git y SourceTree es que Git principalmente se maneja con comando de consola mientas que Sourcetree es una interface mas visual.
+En esta practica utilize Git por el hecho de ser al que mas le entendi en clase, sin embargo dependiendo de como vaya llendo el tiempo puede que me cambie a Sourcetree.
