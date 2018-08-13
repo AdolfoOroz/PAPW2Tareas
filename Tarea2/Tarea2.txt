@@ -1,0 +1,4 @@
+Los pasos necesarios para subir un repositorio en Github utilizando Git.
+
+-Tras haber realizado un commit en el repositorio local se usara el comando "git remote add origin" con la direccion web de a donde se mandara.
+-Seguido de esto se utilizara el siguiente comando 2 "git push -u origin master"
